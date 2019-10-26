@@ -1,5 +1,5 @@
 {
-    "profile":[
+    "profiles":[
     {"id":1, "name":"Khizar","age":2},
     {"id":2, "name":"Shehram","age":4},
     {"id":3, "name":"Ashar","age":1},
